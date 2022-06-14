@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Shrestha</h1>
 <h3 align="center">A passionate Full Stack developer and Software Engineer Undergraduate.</h3>
 
-- 🌱 I’m currently learning **Full Stack Web development using *Django*.**
+- 🌱 I’m currently learning **Full Stack Web development.**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
