@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
-- 🤖 I'm keen on **Machine Learning and Data Science.**
+- 🤖 I'm keen on **Machine Learning and Business Analytics.**
 
 - 📫 How to reach me **sthasuyash11@gmail.com**
 
