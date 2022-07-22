@@ -24,7 +24,5 @@
 
 ![Snake animation](https://github.com/sthsuyash/sthsuyash/blob/main/ASSETS/snake.svg)
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthsuyash&show_icons=true&locale=en&layout=compact" alt="sthsuyash" /></p>
-
-
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&show_icons=true&theme=radical)
   
