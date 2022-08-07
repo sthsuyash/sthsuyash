@@ -24,5 +24,11 @@
 
 ![Snake animation](https://github.com/sthsuyash/sthsuyash/blob/main/ASSETS/snake.svg)
 <br><br>
+
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&show_icons=true&theme=radical)
+
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sthsuyash&show_icons=true&theme=codeSTACKr" alt="Suyash Shrestha" /> 
+
   
