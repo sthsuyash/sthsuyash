@@ -5,7 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Web development projects.**
 
-- 🤖 I'm keen on **Machine Learning and Business Analytics.**
+- 💬 Ask me about **SpringBoot, Python, C\C++**
+
+- 🤖 I'm keen on **Machine Learning and Business Intelligence.**
 
 - 📫 How to reach me **sthasuyash11@gmail.com**
 
@@ -25,10 +27,8 @@
 ![Snake animation](https://github.com/sthsuyash/sthsuyash/blob/main/ASSETS/snake.svg)
 <br><br>
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&show_icons=true&theme=radical)
-
-<br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthsuyash&show_icons=true&locale=en&layout=compact" alt="sthsuyash" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=sthsuyash&show_icons=true&theme=codeSTACKr" alt="Suyash Shrestha" /> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthsuyash&" alt="sthsuyash" /></p>
 
-  
+
