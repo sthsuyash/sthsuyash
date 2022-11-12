@@ -43,7 +43,5 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api?username=sthsuyash&show_icons=true&theme=codeSTACKr" alt="Suyash Shrestha" /> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthsuyash&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sthsuyash&show_icons=true&theme=codeSTACKr" alt="Suyash Shrestha" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthsuyash&theme=dark&background=000000)" alt="sthsuyash" /></p>
-
-
