@@ -18,7 +18,7 @@
 </div>
 
 <!-- About me section -->
-## A passionate Full Stack Developer and Software Engineer Undergraduate.
+## A passionate Full Stack Software Developer and Computer Science & IT Undergraduate.
 
 - 🌱 I’m currently learning **Full Stack Web development.**
 
