@@ -18,11 +18,11 @@
 </div>
 
 <!-- About me section -->
-## A passionate Full Stack Software Developer and Computer Science & IT Undergraduate.
+## A passionate Software Developer and Computer Science & IT Undergraduate.
 
-- 🌱 I’m currently learning **Full Stack Web development.**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web development projects.**
+- 👯 I’m looking to collaborate on **Web development or ML projects.**
 
 - 💬 Ask me about **SpringBoot, Python, C\C++**
 
