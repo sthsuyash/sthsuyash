@@ -8,7 +8,20 @@
 
 <!-- Connect links -->
 <div align="center">
-  <a href="https://linkedin.com/in/sthsuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sthsuyash" height="30" width="40" /></a>  <a href="https://fb.com/suyashstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suyashstha" height="30" width="40" /></a>  <a href="https://instagram.com/sthsuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sthsuyash" height="30" width="40" /></a>  <a href="https://twitter.com/sthsuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sthsuyash" height="30" width="40" /></a></a>  <a href="https://dev.to/sthsuyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sthsuyash" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sthsuyash" target="blank">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://dev.to/sthsuyash" target="blank">
+    <img
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
+    />
+  </a>
+  <a href="https://www.kaggle.com/sthsuyash" target="blank">
+    <img
+      src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
+  /></a>
 </div>
 <br/>
 
