@@ -33,7 +33,7 @@
 <!-- About me section -->
 ## A passionate Software Developer and Computer Science & IT Undergraduate.
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Software Development**
 
 - 👯 I’m looking to collaborate on **Web development or ML projects.**
 
@@ -105,13 +105,22 @@
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="Bootstrap"
   />
-  <img
+<img
+  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+  alt="Tailwind"
+/>
+<!--   <img
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
     alt="jQuery"
   />
+-->
   <img
     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     alt="SASS"
+  /> 
+  <img
+    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"
+    alt="Canva"
   />
 </p>
 
@@ -142,40 +151,22 @@
 <!-- python backend section -->
 <p align="center">
   <img
+    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+    alt="Flask"
+  />
+  <img
     src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
     alt="Django"
   />
+  <!--
   <img
     src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
     alt="Django Rest Framework"
   />
+  -->
   <img
     src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"
     alt="Jinga"
-  />
-  <img
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-    alt="Flask"
-  />
-</p>
-
-<!-- package manager section -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-    alt="NPM"
-  />
-  <!-- <img
-        src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
-        alt="Yarn"
-      /> -->
-  <img
-    src="https://img.shields.io/badge/pip-000000?style=for-the-badge&logo=pip&logoColor=white"
-    alt="Pip"
-  />
-  <img
-    src="https://img.shields.io/badge/pypi-000000?style=for-the-badge&logo=pypi&logoColor=white"
-    alt="Pypi"
   />
 </p>
 
@@ -193,29 +184,13 @@
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
   />
+  <img
+    src="https://img.shields.io/badge/Microsoft%20SQL%20Server-yellow?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
+    alt="SQL-SERVER"
+  />
 </p>
 
 <!-- AI/ML tools -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/spss-276DC3?style=for-the-badge&logo=spss&logoColor=white"
-    alt="SPSS"
-  />
-  <img
-    src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-    alt="MS Excel"
-  />
-  <img
-    src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"
-    alt="Anaconda"
-  />
-  <!-- <img
-        src="	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
-        alt="R"
-      />
-    -->
-</p>
-
 <p align="center">
   <img
     src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
@@ -229,6 +204,12 @@
     src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
     alt="Matplotlib"
   />
+  <!-- <img
+        src="	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
+        alt="R"
+      />
+    -->
+  <!--
   <img
     src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
     alt="Scikit learn"
@@ -237,8 +218,7 @@
     src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"
     alt="Keras"
   />
-
-  <!-- <img
+  <img
         src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
         alt="TensorFlow"
       />
@@ -250,27 +230,23 @@
 
 <!-- analytics section -->
 
-<!-- <p align="center">
+<!-- 
       <img
         src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"
         alt="Google analytics"
       />
+-->
+<p align="center">
       <img
         src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
         alt="Tableau"
       />
+<!--
       <img
         src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
         alt="PowerBI"
       />
-    </p> -->
-
-<!-- openGL section -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black"
-    alt="OpenGL"
-  />
+-->
 </p>
 
 <!-- extra section -->
