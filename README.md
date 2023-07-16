@@ -33,13 +33,13 @@
 <!-- About me section -->
 ## A passionate Software Developer and Computer Science & IT Undergraduate.
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **Web development or ML projects.**
 
-- 💬 Ask me about **SpringBoot, Python, C\C++**
+- 💬 Ask me about **Java, SQL, Python, Javascript**
 
-- 🤖 I'm keen on **Machine Learning and Business Intelligence.**
+- 🤖 I'm keen on **Backend Development, Machine Learning and Data Analysis.**
 
 - 📫 How to reach me **sthasuyash11@gmail.com**
 <br/>
@@ -118,18 +118,10 @@
     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     alt="SASS"
   /> 
-  <img
-    src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"
-    alt="Canva"
-  />
 </p>
 
 <!-- backend frameworks section -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
-    alt="Spring"
-  />
   <img
     src="https://img.shields.io/badge/springboot-6DA55F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"
     alt="SpringBoot"
@@ -252,16 +244,13 @@
 <!-- extra section -->
 <p align="center">
   <img
-    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-    alt="git"
+    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
   />
+  <!--
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
     alt="Postman"
-  />
-  <img
-    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-    alt="Docker"
   />
   <img
     src="https://img.shields.io/badge/Json-darkgreen?style=for-the-badge&amp;logo=JSON"
@@ -272,6 +261,7 @@
     alt="Markdown"
   />
 </p>
+-->
 
 <!-- section -->
 <p align="center">
@@ -283,13 +273,16 @@
     src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
     alt="Shell"
   />
+  <!--
   <img
     src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
     alt="neovim"
   />
 </p>
+-->
 
 <!-- tools section -->
+<!--
 <p align="center">
   <img
     src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"
@@ -308,8 +301,10 @@
     alt="PyCharm"
   />
 </p>
+-->
 
 <!-- hosting/SaaS  -->
+<!--
 <p align="center">
   <img
     src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
@@ -319,6 +314,7 @@
     src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Vercel"
   />
+  -->
   <!-- <img
         src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
         alt="FireBase"
