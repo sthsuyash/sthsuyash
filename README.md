@@ -18,10 +18,11 @@
       src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
     />
   </a>
-  <a href="https://www.kaggle.com/sthsuyash" target="blank">
+  <a href="mailto:sthasuyash11@gmailc.com" target="blank">
     <img
-      src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
-  /></a>
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </div>
 <br/>
 
@@ -31,15 +32,15 @@
 </div>
 
 <!-- About me section -->
-## A passionate Software Developer and Computer Science & IT Undergraduate.
+## A passionate Software Engineer and Computer Science & IT Undergraduate.
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👯 I’m looking to collaborate on **Web development or ML projects.**
+- 👯 I’m looking to collaborate on **Web development.** projects
 
 - 💬 Ask me about **Java, SQL, Python, Javascript**
 
-- 🤖 I'm keen on **Backend Development, Machine Learning and Data Analysis.**
+- 🤖 I'm keen on **Backend Development, Project Management and Data Analysis.**
 
 - 📫 How to reach me **sthasuyash11@gmail.com**
 <br/>
@@ -50,12 +51,16 @@
 <!-- Software development Languages section -->
 <p align="center">
   <img
-    src="https://img.shields.io/badge/C-FF6347.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-    alt="C"
+    src="https://img.shields.io/badge/C/C++-FF6347.svg?style=for-the-badge&amp;"
+    alt="C/C++"
   />
   <img
-    src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"
-    alt="C++"
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
+    alt="JavaScript"
+  />
+  <img
+        src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+        alt="Golang"
   />
   <img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54"
@@ -66,13 +71,10 @@
     alt="Java"
   />
   <img
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-    alt="Php"
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="C#"
   />
-  <!-- <img
-        src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-        alt="C#"
-      /> -->
+  
 </p>
 
 <!-- Web development section -->
@@ -86,12 +88,12 @@
     alt="CSS3"
   />
   <img
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
-    alt="JavaScript"
-  />
-  <img
     src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
     alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="Php"
   />
 </p>
 
@@ -114,18 +116,15 @@
     alt="jQuery"
   />
 -->
-  <img
+<!--  <img
     src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     alt="SASS"
   /> 
+  -->
 </p>
 
 <!-- backend frameworks section -->
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/springboot-6DA55F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"
-    alt="SpringBoot"
-  />
   <img
     src="https://img.shields.io/badge/node.js-6DA55?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
     alt="NodeJS"
@@ -134,31 +133,17 @@
     src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB"
     alt="Express.js"
   />
-  <!-- <img
-        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-        alt=".NET"
-      /> -->
-</p>
-
-<!-- python backend section -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
-    alt="Flask"
-  />
-  <img
-    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white"
-    alt="Django"
-  />
-  <!--
   <img
     src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
     alt="Django Rest Framework"
   />
-  -->
   <img
-    src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"
-    alt="Jinga"
+    src="https://img.shields.io/badge/springboot-6DA55F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"
+    alt="SpringBoot"
+  />
+  <img
+        src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
+        alt=".NET"
   />
 </p>
 
@@ -183,6 +168,7 @@
 </p>
 
 <!-- AI/ML tools -->
+<!--
 <p align="center">
   <img
     src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
@@ -196,12 +182,11 @@
     src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
     alt="Matplotlib"
   />
-  <!-- <img
+  <img
         src="	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
         alt="R"
-      />
-    -->
-  <!--
+  />
+   
   <img
     src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
     alt="Scikit learn"
@@ -217,8 +202,9 @@
       <img
         src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
         alt="PyTorch"
-      /> -->
+      />
 </p>
+-->
 
 <!-- analytics section -->
 
@@ -227,19 +213,17 @@
         src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"
         alt="Google analytics"
       />
--->
 <p align="center">
       <img
         src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
         alt="Tableau"
       />
-<!--
       <img
         src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
         alt="PowerBI"
       />
--->
 </p>
+-->
 
 <!-- extra section -->
 <p align="center">
@@ -247,11 +231,19 @@
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
     alt="Docker"
   />
-  <!--
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
     alt="Postman"
   />
+  <img
+    src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+    alt="Reddis"
+  />
+  <img
+    src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"
+    alt="RabbitMQ"
+  />
+  <!--
   <img
     src="https://img.shields.io/badge/Json-darkgreen?style=for-the-badge&amp;logo=JSON"
     alt="Json"
@@ -259,46 +251,6 @@
   <img
     src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"
     alt="Markdown"
-  />
-</p>
--->
-
-<!-- section -->
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-    alt="Linux"
-  />
-  <img
-    src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"
-    alt="Shell"
-  />
-  <!--
-  <img
-    src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"
-    alt="neovim"
-  />
-</p>
--->
-
-<!-- tools section -->
-<!--
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white"
-    alt="VS Code"
-  />
-  <img
-    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-    alt="Microsoft Office"
-  />
-  <img
-    src="https://img.shields.io/badge/IntelliJ%20IDEA-E67976.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white"
-    alt="IntelliJ IDEA"
-  />
-  <img
-    src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
-    alt="PyCharm"
   />
 </p>
 -->
