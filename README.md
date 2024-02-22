@@ -235,6 +235,7 @@
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
     alt="Postman"
   />
+  <!--
   <img
     src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
     alt="Reddis"
@@ -243,7 +244,6 @@
     src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"
     alt="RabbitMQ"
   />
-  <!--
   <img
     src="https://img.shields.io/badge/Json-darkgreen?style=for-the-badge&amp;logo=JSON"
     alt="Json"
